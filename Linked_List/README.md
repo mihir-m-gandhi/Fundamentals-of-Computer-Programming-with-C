@@ -1,21 +1,11 @@
-## Combination (Iterative)
+## Linked List
 
 -----------------------------------------
 ### Problem Definition:
-Write an iterative program to calculate <storng> combination </strong> given r objects to be selected from n objects. Mathematically, this is defined as:
-<p align="center">
-    <img height=100px src="./ncr.png">
-</p>
+Create a Singly Linked List (SLL), populate it with random values, and display the linked list. 
 
 ------------------------------------------
 ### Output:
 <p align="center">
     <img src="./output.png">
-</p>
-
-------------------------------------------
-### Flowchart:
-
-<p align="center">
- <img src="./flowchart.png" alt="Flowchart">
 </p>

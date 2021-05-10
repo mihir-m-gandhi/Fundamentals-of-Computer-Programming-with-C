@@ -1,11 +1,8 @@
-## Combination (Iterative)
+## Number of days in a month
 
 -----------------------------------------
 ### Problem Definition:
-Write an iterative program to calculate <storng> combination </strong> given r objects to be selected from n objects. Mathematically, this is defined as:
-<p align="center">
-    <img height=100px src="./ncr.png">
-</p>
+Write a program to find number of days in a month in any year (including leap year).
 
 ------------------------------------------
 ### Output:
@@ -17,5 +14,5 @@ Write an iterative program to calculate <storng> combination </strong> given r o
 ### Flowchart:
 
 <p align="center">
- <img src="./flowchart.png" alt="Flowchart">
+ <img src="./flowchart.jpg" alt="Flowchart">
 </p>
