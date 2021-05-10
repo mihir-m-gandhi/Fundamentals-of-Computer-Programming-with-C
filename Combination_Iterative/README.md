@@ -16,6 +16,6 @@ Write an iterative program to calculate <storng> combination </strong> given r o
 ------------------------------------------
 ### Flowchart:
 
-<p align="left">
+<p align="center">
  <img src="./flowchart.png" alt="Flowchart">
 </p>
