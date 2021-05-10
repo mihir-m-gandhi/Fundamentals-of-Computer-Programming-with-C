@@ -2,7 +2,7 @@
 
 -----------------------------------------
 ### Problem Definition:
-Write an iterative program to calculate <storng> combination </strong> given r objects to be selected from n objects. Mathematically, this is defined as:
+Write an iterative program to calculate <strong> combination </strong> given r objects to be selected from n objects. Mathematically, this is defined as:
 <p align="center">
     <img height=100px src="./ncr.png">
 </p>
