@@ -2,9 +2,7 @@
 
 -----------------------------------------
 ### Problem Definition:
-Create a Singly Linked List (SLL) and implement following operations using menu driven program in C.
-1. createSLL()
-3. display()
+Create a Singly Linked List (SLL), populate it with random values, and display the linked list. 
 
 ------------------------------------------
 ### Output:
