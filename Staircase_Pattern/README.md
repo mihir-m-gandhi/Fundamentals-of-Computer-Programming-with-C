@@ -4,7 +4,7 @@
 ### Problem Definition:
 Write a program to accept number of lines (n) from the user and display the given pattern on the screen.
 <p align="center">
-    <img height=200px src="./staircase.png">
+    <img height=150px src="./staircase.png">
 </p>
 
 ------------------------------------------
