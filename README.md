@@ -1,5 +1,5 @@
 <p align="center">
- <img height=200px src="./kjsce.jpg" alt="KJSCE">
+ <img height=150px src="./kjsce.jpg" alt="KJSCE">
 </p>
 
 <h1 align="center">Fundamentals of Computer Programming with C</h1>
