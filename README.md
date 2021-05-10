@@ -14,7 +14,7 @@
 
 ------------------------------------------
 
-### Contents
+## Contents
 
 * [Combination Iterative](./Combination_Iterative)
 * [Combination Recursive](./Combination_Recursive)
