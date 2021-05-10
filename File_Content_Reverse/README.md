@@ -1,8 +1,8 @@
-## Combination (Iterative)
+## File Content Reverse
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to accept a file name from the user and write the contents of one file in reverse order into another file.
+Write a program to accept a file name from the user and write the contents of the file in reverse order into another file.
 
 ------------------------------------------
 ### Output:
