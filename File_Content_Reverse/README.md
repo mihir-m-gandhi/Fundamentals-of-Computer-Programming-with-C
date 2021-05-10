@@ -9,10 +9,3 @@ Write a program to accept a file name from the user and write the contents of on
 <p align="center">
     <img src="./output.png">
 </p>
-
-------------------------------------------
-### Flowchart:
-
-<p align="center">
- <img src="./flowchart.png" alt="Flowchart">
-</p>
