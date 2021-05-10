@@ -1,4 +1,4 @@
-## Combination (Iterative)
+# Combination (Iterative)
 
 -----------------------------------------
 ### Problem Definition
