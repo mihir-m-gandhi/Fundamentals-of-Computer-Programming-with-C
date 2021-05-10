@@ -2,7 +2,7 @@
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to display a _smiley face_ using the <strong> graphics </strong> library
+Write a program to display a 'smiley face' using the <strong> graphics </strong> library
 
 ------------------------------------------
 ### Output:
