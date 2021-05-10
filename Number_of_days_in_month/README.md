@@ -14,5 +14,5 @@ Write a program to find number of days in a month in any year (including leap ye
 ### Flowchart:
 
 <p align="center">
- <img src="./flowchart.jpg" alt="Flowchart">
+ <img src="./flowchart.jpg" alt="flowchart">
 </p>
