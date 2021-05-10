@@ -1,10 +1,10 @@
-## Combination (Iterative)
+## Pyramid Pattern
 
 -----------------------------------------
 ### Problem Definition:
-Write an iterative program to calculate <storng> combination </strong> given r objects to be selected from n objects. Mathematically, this is defined as:
+Write a program to accept number of lines n from the user and display the given pattern on the screen.
 <p align="center">
-    <img height=100px src="./ncr.png">
+    <img height=100px src="./pyramid.png">
 </p>
 
 ------------------------------------------
@@ -17,5 +17,5 @@ Write an iterative program to calculate <storng> combination </strong> given r o
 ### Flowchart:
 
 <p align="center">
- <img src="./flowchart.png" alt="Flowchart">
+ <img src="./flowchart.jpg" alt="Flowchart">
 </p>
