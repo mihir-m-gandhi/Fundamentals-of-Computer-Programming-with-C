@@ -1,21 +1,11 @@
-## Combination (Iterative)
+## Remove Vowels
 
 -----------------------------------------
 ### Problem Definition:
-Write an iterative program to calculate <storng> combination </strong> given r objects to be selected from n objects. Mathematically, this is defined as:
-<p align="center">
-    <img height=100px src="./ncr.png">
-</p>
+Write a program to delete all vowels from a sentence. Assume that the sentence is not more than 100 characters long.
 
 ------------------------------------------
 ### Output:
 <p align="center">
     <img src="./output.png">
-</p>
-
-------------------------------------------
-### Flowchart:
-
-<p align="center">
- <img src="./flowchart.png" alt="Flowchart">
 </p>

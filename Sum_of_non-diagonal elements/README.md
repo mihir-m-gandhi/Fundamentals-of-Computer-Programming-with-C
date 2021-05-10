@@ -1,11 +1,8 @@
-## Combination (Iterative)
+## Sum of non-diagonal elements
 
 -----------------------------------------
 ### Problem Definition:
-Write an iterative program to calculate <storng> combination </strong> given r objects to be selected from n objects. Mathematically, this is defined as:
-<p align="center">
-    <img height=100px src="./ncr.png">
-</p>
+Write a program to calculate the sum of non-diagonal elements of a matrix.
 
 ------------------------------------------
 ### Output:
@@ -17,5 +14,5 @@ Write an iterative program to calculate <storng> combination </strong> given r o
 ### Flowchart:
 
 <p align="center">
- <img src="./flowchart.png" alt="Flowchart">
+ <img src="./flowchart.jpg" alt="Flowchart">
 </p>
