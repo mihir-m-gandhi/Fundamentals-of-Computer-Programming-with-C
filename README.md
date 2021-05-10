@@ -2,13 +2,13 @@
  <img height=200px src="./kjsce.jpg" alt="KJSCE">
 </p>
 
-<h1 align="center">Fundamentals of Computer Programming with C</h1>
+<h1 align="center">Fundamentals of Computer Programming with C  :computer: </h1>
 
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4> This repository contains programs written as part of **Fundamentals of Computer Programming with C Lab**  :computer: during my Bachelor's at K.J. Somaiya College of Engineering, Mumbai.</h4>
+<h4> This repository contains programs written as part of <strong>undamentals of Computer Programming with C Lab</strong> during my Bachelor's at K.J. Somaiya College of Engineering, Mumbai.</h4>
 
 </div>
 
