@@ -1,5 +1,3 @@
-# Fundamentals-of-Computer-Programming-with-C
-
 <p align="center">
  <img height=200px src="./kjsce.jpg" alt="KJSCE">
 </p>
