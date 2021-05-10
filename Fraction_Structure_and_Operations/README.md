@@ -14,5 +14,5 @@ Write a program to create a structure ‘ratio’ which stores a fraction using 
 ### Flowchart:
 
 <p align="center">
- <img src="./flowchart.png" alt="Flowchart">
+ <img src="./flowchart.jpg" alt="Flowchart">
 </p>
