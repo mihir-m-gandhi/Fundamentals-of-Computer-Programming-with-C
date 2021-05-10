@@ -22,7 +22,7 @@
 * [File Content Reverse](./File_Content_Reverse)
 * [Fraction Structure and Operations](./Fraction_Structure_and_Operations)
 * [Graphics](./Graphics)
-* [Number of days in a month](./Number_of_days_in_month)
+* [Number of days in month](./Number_of_days_in_month)
 * [Linked List](./Linked_List)
 * [Palindrome](./Palindrome)
 * [Pyramid Pattern](./Pyramid_Pattern)
