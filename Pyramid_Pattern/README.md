@@ -2,7 +2,7 @@
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to accept number of lines n from the user and display the given pattern on the screen.
+Write a program to accept number of lines (n) from the user and display the given pattern on the screen.
 <p align="center">
     <img height=100px src="./pyramid.png">
 </p>
