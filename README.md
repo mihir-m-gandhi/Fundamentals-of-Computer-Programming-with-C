@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4> This repository contains programs written as part of Fundamentals of Computer Programming with C Lab during my Bachelor's at K.J. Somaiya College of Engineering, Mumbai.</h4>
+<h4> This repository contains programs written as part of 'Fundamentals of Computer Programming with C' Lab during my Bachelor's at K.J. Somaiya College of Engineering, Mumbai.</h4>
 
 </div>
 
