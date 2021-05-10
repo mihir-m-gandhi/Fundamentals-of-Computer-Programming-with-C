@@ -16,20 +16,20 @@
 
 ### Contents
 
-* [Combination Iterative](./Combination\ Iterative)
-* [Combination Recursive](./Combination Recursive)
-* [Cyclic Rotation](./Cyclic Rotation)
-* [File Content Reverse](./File Content Reverse)
-* [Fraction Structure and Operations](./Fraction Structure and Operations)
+* [Combination Iterative](./Combination_Iterative)
+* [Combination Recursive](./Combination_Recursive)
+* [Cyclic Rotation](./Cyclic_Rotation)
+* [File Content Reverse](./File_Content_Reverse)
+* [Fraction Structure and Operations](./Fraction_Structure_and_Operations)
 * [Graphics](./Graphics)
-* [Leap Year](./Leap Year)
-* [Linked List](./Linked List)
+* [Leap Year](./Leap_Year)
+* [Linked List](./Linked_List)
 * [Palindrome](./Palindrome)
-* [Pyramid Pattern](./Pyramid Pattern)
-* [Remove Vowels](./Remove Vowels)
-* [Simple and Compound Interest](./Simple and Compound Interest])
-* [Staircase Pattern](./Staircase Pattern)
-* [Sum of non-diagonal elements](./Sum of non-diagonal elements)
+* [Pyramid Pattern](./Pyramid_Pattern)
+* [Remove Vowels](./Remove_Vowels)
+* [Simple and Compound Interest](./Simple_and_Compound_Interest])
+* [Staircase Pattern](./Staircase_Pattern)
+* [Sum of non-diagonal elements](./Sum_of_non-diagonal_elements)
 
 ------------------------------------------
 ### Author
