@@ -1,11 +1,8 @@
-## Combination (Iterative)
+## Cyclic Rotation
 
 -----------------------------------------
 ### Problem Definition:
-Write an iterative program to calculate <storng> combination </strong> given r objects to be selected from n objects. Mathematically, this is defined as:
-<p align="center">
-    <img height=100px src="./ncr.png">
-</p>
+Write a program to store n elements in an array and cyclically rotate the elements to its left by one position in each iteration.
 
 ------------------------------------------
 ### Output:
