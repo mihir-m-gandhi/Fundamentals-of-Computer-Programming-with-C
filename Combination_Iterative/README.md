@@ -10,12 +10,12 @@ Write an iterative program to calculate <storng> combination </strong> given r o
 ------------------------------------------
 ### Output
 <p align="center">
-    <img width=360px src="./output.png">
+    <img src="./output.png">
 </p>
 
 ------------------------------------------
 ### Flowchart
 
 <p align="center">
- <img width=360px height=640px src="./flowchart.png" alt="Flowchart">
+ <img src="./flowchart.png" alt="Flowchart">
 </p>
